@@ -1,0 +1,1245 @@
+title,job_industry,date_posted,job_description,job_keyInfo
+About Canonical,,,,
+Software Engineer - Cross-Platform C++ - Multipass,"View Jobs in ICT / Telecommunication
+/
+View Jobs at Canonical","Posted: Jun 29, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+We deliver open source to the world faster, more securely and more cost effectively than any other company. If you're interested in a career at Canonical, we are a remote-first company so please apply to any suitable role as skills are valued more than location, despite some having a preferred geographic preference.
+
+Read more about this company
+ 
+
+Software Engineer - Cross-Platform C++ - Multipass
+
+
+Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp
+
+
+
+
+Use your deep C++ skills on Windows and MacOS to build an amazing open source developer experience with Multipass, the workstation mini-cloud at your fingertips which provides Ubuntu and appliance VMs on demand for build, test and prototyping. The Multipass team is hiring a Software Engineer to join our distributed team. We greatly value quality in our code, and great user experience.
+Multipass is published for macOS, Windows, and also Linux. Think of it as a workstation mini-cloud. At its simplest you can simply say multipass launch and you will get a new VM on your workstation. You can feed that VM data, just as you would on a public cloud like AWS, Azure or GCP.
+The goal is not to be a full cloud of course. The goal is to give developers a local cloud on their workstation, which they can use to run builds in the background, or to try cloud appliances, or to test their own cloud deployments and cloud-init scripts, free of charge. People sometimes use it as a build farm on a shared server, for example.
+As a Software Engineer you are expected to play a leadership role designing, mentoring, reviewing and of course coding.
+
+Location: This is a remote position available in EMEA and the Americas.
+What you will focus on
+
+Ensure Multipass is easy and intuitive to use
+Architect new features and design the user experience
+Write high-quality code to create new features and fix bugs
+Review code and architecture as part of Canonical's engineering process
+Collaborate proactively with a distributed team
+Debug, track down and fix issues encountered by our users
+Foster the open source community and support customers when needed
+Travel internationally for up to two weeks, twice a year, for company events
+
+What we are looking for in you
+
+Cross-platform development experience on macOS and/or Windows
+Expertise in modern C++ development
+Experience with software testing and test-driven development
+Extremely high personal standards for code quality, testing and design
+Knowledge of hypervisor technologies such as Hyper-V, VirtualBox, KVM, and QEMU
+Open source experience and involvement
+Knowledge of CI systems a plus
+Capacity to learn quickly about new systems and techniques
+Excellent communication skills in English - both verbal and written
+Bachelor's or equivalent in Computer Science, STEM or similar degree
+
+
+
+
+
+
+
+
+Method of Application 
+
+Interested and qualified? Go to Canonical on boards.greenhouse.io to apply
+
+
+Build your CV for free. Download in different templates.","Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp"
+About Canonical,,,,
+Software Engineer - Packaging - Optimize Ubuntu Server,"View Jobs in ICT / Telecommunication
+/
+View Jobs at Canonical","Posted: Jun 28, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+We deliver open source to the world faster, more securely and more cost effectively than any other company. If you're interested in a career at Canonical, we are a remote-first company so please apply to any suitable role as skills are valued more than location, despite some having a preferred geographic preference.
+
+Read more about this company
+ 
+
+Software Engineer - Packaging - Optimize Ubuntu Server
+
+
+Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp
+
+
+
+What you’ll do
+
+Collaborate proactively within a distributed team
+Foster a software ecosystem with seamless user experience for all Ubuntu users
+Debug issues and facilitate their solution together with upstream projects
+Evaluate contributions of other engineers to maintain high-quality software standards.
+Work from home with global travel 2 to 4 weeks for internal and external events
+Play a role in shaping the future of Ubuntu via both - new ideas in your areas of interest and advising on work being done elsewhere
+
+Own the maintenance of Ubuntu Server packages. Specifically but not limited to:
+
+Traditional server workloads (web servers, databases, network services, etc)
+Virtualisation and Containers
+Package management and dependencies
+Language runtimes and toolchains (python, golang, rust, etc)
+Collaborate with other teams in the Ubuntu and Debian communities, with upstream projects, and commercially supported customers
+
+Who you are
+
+You love technology and working with brilliant people
+You are curious, flexible, articulate, and accountable
+You value soft skills and are passionate, enterprising, thoughtful, and self-motivated
+You have a Bachelor’s or equivalent in Computer Science, STEM or similar degree (or any higher)
+You have interest and experience with two or more of the following: Distribution Development; debugging issues in a wide range of software; creation of test environments and reproducibility steps; administration and optimization of complex workloads; coding in Python, Go or Rust;  packaging or distributing software; Public clouds like AWS, GCP, Azure, Oracle Cloud and, IBM Cloud
+You enjoy switching projects frequently and learning about a wide range of technologies
+Involvement in open source projects in the past a plus
+
+
+
+
+
+
+
+
+Method of Application 
+
+Interested and qualified? Go to Canonical on boards.greenhouse.io to apply
+
+
+Build your CV for free. Download in different templates.","Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp"
+About Canonical,,,,
+C++ Graphics and Windowing System Software Engineer - Mir,"View Jobs in ICT / Telecommunication
+/
+View Jobs at Canonical","Posted: Jun 27, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+We deliver open source to the world faster, more securely and more cost effectively than any other company. If you're interested in a career at Canonical, we are a remote-first company so please apply to any suitable role as skills are valued more than location, despite some having a preferred geographic preference.
+
+Read more about this company
+ 
+
+C++ Graphics and Windowing System Software Engineer - Mir
+
+
+Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp
+
+
+
+What you will do
+
+Design and implement features across the Mir stack
+Assist in debugging, tracking down and fixing issues
+Improve tests and performance benchmarks to catch issues early
+Create documentation to enhance the developer experience
+Engage with the open source community and commercial partners
+Collaborate proactively with a distributed team
+
+Required skills and experience
+
+You have excellent, modern C++ programming taste
+You have a rigorous approach to software design, development and testing
+You have a solid understanding of asynchronous programming and concurrency patterns
+You have strong written and verbal communication skills to document and present software developed
+You are productive collaborating remotely and are highly motivated and organized
+You are familiar with Linux as a development and deployment platform
+You have proven ability to consistently deliver robust code to production
+Bachelor’s or equivalent in Computer Science, STEM or similar degree
+
+Desirable skills and experience
+
+Experience with the Wayland protocol ecosystem and compositors
+Familiarity with a range of Linux Desktop Environments
+Familiarity with OpenGL, Vulkan, and other graphics and animation frameworks
+You have experience developing and deploying on a Ubuntu/Debian system
+
+
+
+
+
+
+
+
+Method of Application 
+
+Interested and qualified? Go to Canonical on boards.greenhouse.io to apply
+
+
+Build your CV for free. Download in different templates.","Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp"
+About SENRI Ltd. (Africa Incubator Ltd.),,,,
+Software Engineer,"View Jobs in ICT / Telecommunication
+/
+View Jobs at SENRI Ltd. (Africa Incubator Ltd.)","Posted: Jun 24, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+SENRI, a Mobile and Web combined app for sales automation, will help you in end-to-end productivity improvement of your sales operation.Â 
+
+Read more about this company
+ 
+
+Software Engineer
+
+
+Job Type Full Time
+Qualification BA/BSc/HND
+Experience 2 years
+Location Nairobi
+Job Field ICT / Computer&nbsp
+
+
+
+
+We are looking for a skilled Integration Engineer to join our team on a project basis. The expected project period is 1-2 months and contract based, with a possibility of extending the engagement based on performance. The role involves integrating external systems with SENRI, our proprietary platform. The ideal candidate will have a strong technical background and experience with Python or C#, along with integration experience in ERP and KRA-related services.
+
+Responsibilities:
+
+Develop and implement integration solutions to connect external systems with SENRI
+Collaborate with internal teams and external stakeholders to understand integration requirements
+Test and troubleshoot integration solutions to ensure seamless functionality
+Develop technical documentation and provide support to end-users
+
+Requirements:
+
+Minimum 2 years of experience as an Engineer
+Strong programming skills in C#
+Experience in integrating ERP and KRA-related services is a plus
+SAP experience is a plus
+Experience in AWS is a plus
+Experience in RESTful API is a plus
+Ability to work independently and as part of a team
+Excellent communication and problem-solving skills
+Availability for virtual meetings and occasional physical meetings as needed.
+
+
+
+
+
+
+
+
+Method of Application 
+
+Interested and qualified? Go to SENRI Ltd. (Africa Incubator Ltd.) on docs.google.com to apply
+
+
+Build your CV for free. Download in different templates.","Job Type Full Time
+Qualification BA/BSc/HND
+Experience 2 years
+Location Nairobi
+Job Field ICT / Computer&nbsp"
+About Google,,,,
+"Software Engineer III, Android, Platforms and Ecosystems","View Jobs in ICT / Telecommunication
+/
+View Jobs at Google","Posted: Jun 20, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+Google is an American multinational technology company specializing in Internet-related services and products that include online advertising technologies, search, cloud computing, software, and hardware.
+
+Read more about this company
+ 
+
+Software Engineer III, Android, Platforms and Ecosystems
+
+
+Job Type Full Time
+Qualification BA/BSc/HND
+Experience 2 years
+Location Nairobi
+Job Field ICT / Computer&nbsp
+
+
+
+Minimum qualifications:
+
+Bachelor’s degree or equivalent practical experience.
+2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting.
+2 years of experience with data structures or algorithms in either an academic or industry setting, and with Android application development.
+
+Preferred qualifications:
+
+Experience with Android development in Kotlin or Java.
+
+About The Job
+
+Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+With your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.
+Android is Google’s open-source mobile operating system powering more than 3 billion devices worldwide. Android is about bringing computing to everyone in the world. We believe computing is a super power for good, enabling access to information, economic opportunity, productivity, connectivity between friends and family and more. We think everyone in the world should have access to the best computing has to offer. We provide the platform for original equipment manufacturers (OEMs) and developers to build compelling computing devices (smartphones, tablets, TVs, wearables, etc) that run the best apps/services for everyone in the world.
+
+Responsibilities
+
+Build applications and experiences that will make it more customized for entry-to-mid-tier Android devices globally.
+Participate in the software feature lifecycle from start to end and collaborate with other Engineers, Product Managers, and User Experience Designers and Researchers who will work with you to develop the user experience.
+Design, develop, test, deploy, maintain, and enhance software solutions.
+Review code written by other engineers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
+Participate in, or lead design reviews with peers and stakeholders to decide on the optimal solution.
+
+
+
+
+
+
+
+
+Method of Application 
+
+Interested and qualified? Go to Google on www.google.com to apply
+
+
+Build your CV for free. Download in different templates.","Job Type Full Time
+Qualification BA/BSc/HND
+Experience 2 years
+Location Nairobi
+Job Field ICT / Computer&nbsp"
+About RWK & Associates CPA-K,,,,
+Software Engineer Intern,"View Jobs in Banking / Financial Services
+/
+View Jobs at RWK & Associates CPA-K","Posted: Jun 18, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+We are a registered medium sized firm of Certified Public Accountants that is fully committed to provision of cost effective and unparalleled professional services to all sectors of our economy that not only conforms to but also meets and exceeds our client’s expectations.
+
+Read more about this company
+ 
+
+Software Engineer Intern
+
+
+Job Type Contract
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp , Internships / Volunteering&nbsp
+
+
+
+Role Description
+Are you a driven and talented undergraduate student or a recent graduate with a passion for software development? Are you seeking an opportunity to apply your skills in a real-world setting, working with a dynamic team of industry experts? Our Technology Internship Program offers a unique opportunity to immerse yourself in the world of software development, gaining hands-on experience with industry-leading technologies while contributing to the development of our next-generation accounting software.
+Key Responsibilities:
+
+Collaborate with an experienced development team to design, develop, and deploy software solutions using cutting-edge technologies such as Express.js, Next.js, and PostgreSQL.
+Participate in all phases of the software development lifecycle, from requirements gathering and design to implementation, testing, and deployment.
+Contribute to the development of new features, modules, and functionalities, ensuring high quality, performance, and scalability.
+Work closely with cross-functional teams, including product management, design, and QA, to deliver innovative solutions that meet customer needs and exceed expectations.
+Embrace a culture of continuous learning and growth, actively seeking opportunities to expand your technical skills and knowledge.
+
+Qualifications:
+
+Currently enrolled or a recent graduate with a bachelor's degree in Computer Science, Software Engineering, or a related field.
+Strong programming skills and proficiency in JavaScript, with experience or coursework in web development frameworks such as Express.js and Next.js.
+Familiarity with database technologies such as PostgreSQL and experience with SQL.
+Excellent problem-solving abilities, attention to detail, and a passion for learning and innovation.
+Strong communication and collaboration skills, with the ability to work effectively in a team environment.
+
+Benefits:
+
+Hands-on experience with cutting-edge technologies and real-world software development projects.
+Mentorship and guidance from experienced professionals in the industry.
+Opportunity to make a meaningful impact and contribute to the development of a market-leading software solution.
+Flexible work arrangements and the possibility of remote work.
+Competitive compensation package and potential for future full-time employment opportunities.
+
+
+
+
+
+
+
+
+Method of Application 
+
+Are you ready to take the next step in your software development journey? Apply now to join our Technology Internship Program and embark on an exciting adventure with Us.
+To apply, Send a Cover Letter and a copy of your CV together with samples of your work to hr@rwkassociates.co.ke. The deadline for applications is 30th June 2024.
+
+
+Build your CV for free. Download in different templates.","Job Type Contract
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp , Internships / Volunteering&nbsp"
+About Yashio Kenya,,,,
+Software Engineer,"View Jobs in ICT / Telecommunication
+/
+View Jobs at Yashio Kenya","Posted: Jun 15, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+At Yashio Kenya, our vision is to enable individuals worldwide to shape their own futures. We understand that in today's fast-paced world, continuous learning is essential. The current education system falls short, leaving many people unprepared for life's challenges. We believe that tackling issues like poverty, conflict, and environmental destruction start...
+
+Read more about this company
+ 
+
+Software Engineer
+
+
+Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp
+
+
+
+What Awaits You
+As a Software Engineer, you'll be part of our dynamic web application development team. This is your opportunity to engage with diverse projects, from small-scale gems to grand innovations, all while gaining invaluable practical experience and refining your skills. Your role will encompass:
+
+Crafting Web APIs, Web front-end applications, and native apps.
+Orchestrating system designs and project management.
+Architecting seamless API interfaces and conducting thorough unit tests.
+Delving into user behavior data, extracting insights, and driving system enhancements.
+Collaborating with our management team to shape and execute technical business strategies.
+
+What We Bring to Your Table 
+
+Enjoy a monthly gross salary of Ksh. 20,000, plus performance-based commissions.
+Unlock the possibility of permanent employment after three months, contingent on your exceptional performance.
+Benefit from unwavering support provided by our professional international team, dedicated to your growth and development.
+Access a well-equipped development environment, complete with a PC and Monitor sporting ample specs.
+Immerse yourself in a diverse array of projects and technologies to elevate your skill set.
+
+Who We're Looking For 
+To be eligible for this job, you should meet the following criteria:
+
+Be ready to commit to full-time engagement.
+Currently enrolled or completed from a recognized public or private higher education institution.
+Hold a degree obtained within the past year or be able to provide a letter confirming your enrollment.
+Possess strong written and verbal communication skills.
+
+
+
+
+
+
+
+
+Method of Application 
+
+Interested and qualified? Go to Yashio Kenya on www.linkedin.com to apply
+
+
+Build your CV for free. Download in different templates.","Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp"
+About Canonical,,,,
+C++ Graphics and Windowing System Software Engineer - Mir,"View Jobs in ICT / Telecommunication
+/
+View Jobs at Canonical","Posted: Jun 13, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+We deliver open source to the world faster, more securely and more cost effectively than any other company. If you're interested in a career at Canonical, we are a remote-first company so please apply to any suitable role as skills are valued more than location, despite some having a preferred geographic preference.
+
+Read more about this company
+ 
+
+C++ Graphics and Windowing System Software Engineer - Mir
+
+
+Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp
+
+
+
+
+This is an excellent opportunity for someone who wants to have a meaningful impact on modern display technologies that will impact millions of developers. Canonical offers a fast-paced team environment and a career full of learning and development opportunities across the open source spectrum.
+
+What you will do
+
+Design and implement features across the Mir stack
+Assist in debugging, tracking down and fixing issues
+Improve tests and performance benchmarks to catch issues early
+Create documentation to enhance the developer experience
+Engage with the open source community and commercial partners
+Collaborate proactively with a distributed team
+
+Required Skills And Experience
+
+You have excellent, modern C++ programming taste
+You have a rigorous approach to software design, development and testing
+You have a solid understanding of asynchronous programming and concurrency patterns
+You have strong written and verbal communication skills to document and present software developed
+You are productive collaborating remotely and are highly motivated and organized
+You are familiar with Linux as a development and deployment platform
+You have proven ability to consistently deliver robust code to production
+Bachelor's or equivalent in Computer Science, STEM or similar degree
+
+Desirable Skills And Experience
+
+Experience with the Wayland protocol ecosystem and compositors
+Familiarity with a range of Linux Desktop Environments
+Familiarity with OpenGL, Vulkan, and other graphics and animation frameworks
+You have experience developing and deploying on a Ubuntu/Debian system
+
+
+
+
+
+
+
+
+Method of Application 
+
+Interested and qualified? Go to Canonical on boards.greenhouse.io to apply
+
+
+Build your CV for free. Download in different templates.","Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp"
+About Canonical,,,,
+Software Engineer - Immutable Ubuntu Desktop,"View Jobs in ICT / Telecommunication
+/
+View Jobs at Canonical","Posted: Jun 13, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+We deliver open source to the world faster, more securely and more cost effectively than any other company. If you're interested in a career at Canonical, we are a remote-first company so please apply to any suitable role as skills are valued more than location, despite some having a preferred geographic preference.
+
+Read more about this company
+ 
+
+Software Engineer - Immutable Ubuntu Desktop
+
+
+Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp
+
+
+
+
+As a Software Engineer on the Core Desktop team, you'll join a dedicated team of professionals to build the next generation of immutable Ubuntu desktop. Our goal is to put Linux desktops back at the forefront of security, reliability and usability. In this project we combine the best ideas of immutable Linux with the latest Linux desktop experience to bring our global ecosystem of developers a much better platform for innovation. We mostly code in system languages such as Rust, C and C++, we also occasionally use Python and Dart / Flutter. This role offers a unique opportunity to grow and learn in a fast-paced environment. Your contributions, guided by more experienced team members, will be essential in shaping the future of Ubuntu's Core Desktop.
+
+Location: This this is a home-based position on a team in the EMEA region.
+What your day will look like
+
+Design and develop elements of the Core Desktop.
+Work with the latest Linux container technologies - kernel namespaces, cgroups, apparmour, seccomp and more
+Write high quality, defensive and performant code for millions of demanding daily users
+Collaborate with team members to understand the intricacies of immutable desktops.
+Participate in code reviews to gain a deep understanding of quality standards and architecture.
+Engage with the Ubuntu community to gather user feedback and insights.
+Contribute to documentation to aid in your learning and that of future team members.
+Take part in regular team meetings to discuss progress, challenges, and upcoming development sprints.
+Troubleshoot and resolve user-reported issues, gaining experience in debugging and problem-solving.
+
+What we are looking for in you
+
+Outstanding academic results
+An undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path.
+An understanding of software development methodologies and life cycles.
+A passion for technology and a drive to work with intelligent, motivated colleagues.
+Willingness to learn and adapt, with a keen interest in the challenges of immutable desktop environments.
+Skills in Linux containerisation technologies - kernel namespaces, cgroups, apparmour, or seccomp
+Skills in Linux desktop environments - XDG portals, free desktop specifications, systemd, GRUB etc.
+Skills in Rust, Golang, Python or C.
+Good communication skills for both internal and external interactions.
+Ability to travel twice a year, for company events up to two weeks long.
+
+Additional Skills That You Might Also Bring
+
+Initiative to proactively identify opportunities and solve challenges.
+Curiosity, flexibility, and a strong sense of accountability.
+A focus on soft skills, including passion, enterprise, and self-motivation.
+
+
+
+
+
+
+
+
+Method of Application 
+
+Interested and qualified? Go to Canonical on boards.greenhouse.io to apply
+
+
+Build your CV for free. Download in different templates.","Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp"
+About Canonical,,,,
+System Software Engineer - Ubuntu Networking,"View Jobs in ICT / Telecommunication
+/
+View Jobs at Canonical","Posted: Jun 13, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+We deliver open source to the world faster, more securely and more cost effectively than any other company. If you're interested in a career at Canonical, we are a remote-first company so please apply to any suitable role as skills are valued more than location, despite some having a preferred geographic preference.
+
+Read more about this company
+ 
+
+System Software Engineer - Ubuntu Networking
+
+
+Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp
+
+
+
+
+As a Linux System Engineer, you will maintain and integrate core components involved in the network stack of the Ubuntu Distribution. You will be discussing design with other team members, upstream projects, mentor less senior engineers and participate in code reviews and design reviews. You will also be working with other teams to ensure architecture decisions improve the overall performance and experience of Ubuntu.
+
+Location: The Foundations team is based in EMEA and Americas time zones, from UTC+4 to UTC-8.
+What your day will look like
+
+Collaborate proactively with a distributed team
+Shape software-define networking products for evolving data centre architectures to meet ever-increasing bandwidth, reliability, security, and interoperability demands
+Write high-quality, well-designed and well-documented software
+Debug issues and produce high-quality code to fix them
+Collaborate proactively with a globally distributed organisation
+Contribute to technical documentation to make it the best of its kind
+Display technical leadership internally, towards our partners, and in the open source communities
+Influence open-source projects and communities
+Shape innovative product strategies
+Work from home, with global travel twice a year for company events of up to two weeks duration
+
+What we are looking for in you
+
+An exceptional academic track record from both high school and university
+Undergraduate degree in Computer Science or STEM, or a compelling narrative about your alternative path
+Drive and a track record of going above-and-beyond expectations
+Knowledge of networking: architecture, design, and protocols
+Deep understanding and passion for Linux networking, from kernel to user space
+Professional experience with computer networks, including virtual networks, distributed systems as well as understanding of hardware offloading technologies.
+Interest in systemd-networkd, NetworkManager, ModemManager, iwd, conman, bluez, iproute2, Open vSwitch, WireGuard and similar software components
+Fluency in at least one of Golang, C/C++, Rust or Python
+Professional written and spoken English
+Experience with Linux (Debian or Ubuntu preferred)
+Interest in packaging software for Debian and Ubuntu
+Excellent interpersonal skills, curiosity, flexibility, and accountability
+Passion, thoughtfulness, and self-motivation
+Excellent communication and presentation skills
+Result-oriented, with a personal drive to meet commitments
+Ability to travel twice a year, for company events up to two weeks each
+
+What we offer you
+We consider geographical location, experience, and performance in shaping compensation worldwide. We revisit compensation annually (and more often for graduates and associates) to ensure we recognise outstanding performance. In addition to base pay, we offer a performance-driven annual bonus. We provide all team members with additional benefits, which reflect our values and ideals. We balance our programs to meet local needs and ensure fairness globally.
+
+Distributed work environment with twice-yearly team sprints in person
+Personal learning and development budget of USD 2,000 per year
+Annual compensation review
+Recognition rewards
+Annual holiday leave
+Maternity and paternity leave
+Employee Assistance Programme
+Opportunity to travel to new locations to meet colleagues
+Priority Pass, and travel upgrades for long haul company events
+
+
+
+
+
+
+
+
+Method of Application 
+
+Interested and qualified? Go to Canonical on boards.greenhouse.io to apply
+
+
+Build your CV for free. Download in different templates.","Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp"
+About Deimos,,,,
+Senior Java Software Engineer,"View Jobs in ICT / Telecommunication
+/
+View Jobs at Deimos","Posted: Jun 12, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+Businesses today are adopting the cloud for improved services to their customers. Our purpose is to guide companies on that journey to drive the adoption of DevSecOps so that our clients can remain ahead of the curve. We have an intense focus on engineering fundamentals, whether Developer and Security Operations, Cloud Native Transformation Strategy or So...
+
+Read more about this company
+ 
+
+Senior Java Software Engineer
+
+
+Job Type Remote
+Qualification BA/BSc/HND
+Experience 5 years
+Location Nairobi
+Job Field ICT / Computer&nbsp
+
+
+
+Role Overview
+Deimos is seeking a Senior Java Engineer to join our team, focusing on a client's account in the fintech sector. In this key role, you will develop and implement high-quality software solutions aimed at addressing significant issues impacting business and individuals across the continent.
+You will collaborate closely with cross-functional teams to enhance the client's technology stack and public-facing products. This position presents a unique opportunity to contribute to a challenging project that aims to advance Africa's financial industry. You will make a meaningful impact in a dynamic environment.
+What you will be doing
+
+Design, develop, and maintain robust and scalable Java-based applications and systems.
+Write clean, efficient, and well-documented code following best practices and coding standards.
+Collaborate with technical product managers, software architects, and other stakeholders to understand requirements and translate them into user-facing solutions.
+Participate in all phases of the software development lifecycle, including planning, estimation, development, testing, and deployment.
+Conduct code reviews, provide constructive feedback, and mentor junior team members to foster continuous improvement.
+Troubleshoot and debug complex issues, and implement effective solutions in a timely manner.
+Stay updated on emerging technologies, industry trends, and best practices to enhance technical expertise and drive innovation.
+
+What you must have
+
+5+ years of experience in software development, with a strong focus on Java programming.
+Proven track record of designing and implementing enterprise-level Java applications from concept to production.
+Deep understanding of object-oriented design principles, data structures, algorithms, and design patterns.
+Experience building web API using the Spring Boot framework.
+Experience with web development technologies including HTML, CSS, JavaScript, and related frameworks (e.g., Angular, React).
+Strong database skills with SQL and relational databases (e.g., MySQL, PostgreSQL, Oracle).
+Familiarity with version control systems (e.g., Git) and continuous integration/continuous deployment (CI/CD) pipelines.
+Excellent problem-solving skills, attention to detail, and ability to work effectively in a collaborative team environment.
+Excellent communication skills with the ability to articulate technical concepts to non-technical stakeholders.
+Experience with service-oriented architectures (including microservices) and containerization technologies (e.g., Docker, Kubernetes).
+
+Preferred Qualifications:
+
+Knowledge of cloud computing platforms such as AWS, Azure, or Google Cloud Platform.
+Familiarity with Agile/Scrum methodologies and DevOps practices.
+Certifications in Java programming or related technologies.
+
+About you
+For us to achieve our ambitious vision together as a team, it is important for our Martians to lead at all levels, be self starters who take initiative and put their hands up for challenging tasks. A Growth Mindset is important to us and we encourage all our Martians to openly share knowledge, support and help each other, ask questions, get creative with new technologies and learn from setbacks.
+Becoming a Martian means:
+
+Comfortably working and learning from a fully remote, culturally diverse team based predominantly in South Africa, Kenya, Nigeria and Ghana.
+Being an open, honest and respectful communicator.
+You enjoy asking questions, identifying areas of improvement and proposing solutions, no matter your job title or whether you have been with us for a day, a month or years!
+You are comfortable taking initiative and operating independently.
+You thrive in a fast paced environment, where change is constant.
+You find it exciting to work with various clients, from different industries, each with a different problem for you and your team to solve.
+Intentionally sharing tech and industry trends that excite you with your peers.
+Seeking continuous feedback and actively taking steps to continuously grow personally and professionally.
+
+Want to know what you get by joining us?
+
+Become a member of a team where we value each individual's contribution from day 1 and empower you to make suggestions, get involved and do what you love most!
+Flexibility and the freedom to work remotely.
+Work-life balance where you are not expected to work over weekends or after hours.
+A forward thinking remote company that knows how important it is to stay connected as one team, by providing virtual social platforms for employee engagement.
+A monthly work from home allowance which you can use to set yourself up to work comfortably from home. Whether that is pens, notebooks, new headphones or work snacks!
+A MacBook or Windows laptop for you to do your best work on.
+Become part of a team of exceptionally clever and talented people who like to share their knowledge and learnings.
+We support your career growth and love to celebrate your successes and advancement!
+
+
+
+
+
+
+
+
+Method of Application 
+
+Interested and qualified? Go to Deimos on deimoscloud.bamboohr.com to apply
+
+
+Build your CV for free. Download in different templates.","Job Type Remote
+Qualification BA/BSc/HND
+Experience 5 years
+Location Nairobi
+Job Field ICT / Computer&nbsp"
+About JMR Infotech,,,,
+Software Engineer,"View Jobs in ICT / Telecommunication
+/
+View Jobs at JMR Infotech","Posted: Jun 10, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+Founded in 2007, JMR Infotech is dedicated to help customers harness the power of information technology to transform the way they work and maintain a strong competitive edge.
+
+Read more about this company
+ 
+
+Software Engineer
+
+
+Job Type Full Time
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp
+
+
+
+
+We're looking for Technical Consultants to join our global implementation team for universal banking solutions. You'll be working with a talented crew to deploy cutting-edge banking tech, making a real difference for our clients worldwide.
+
+Here's what you'll be doing:
+
+Partner with client and JMR teams to implement next-gen banking solutions
+Deep dive into technical tasks, development, and testing
+Develop and Troubleshoot like a boss and solve complex problems
+
+Skills:
+
+Proficient in Java and J2EE
+PL/SQL, stored procedures, triggers, and views
+Understanding of Oracle databases
+Knowledge of web services, JS, and XML/JSON
+Experience with the software development lifecycle (SDLC)
+Familiarity with Unix (Solaris, Linux, AIX)
+Banking domain knowledge
+Exposure to Core banking product, preferably, FCUBS is an added value
+
+About You:
+
+You're a team player who thrives in a collaborative environment
+Independent, self-motivated, and a pro at problem-solving
+Excellent Communication (written and verbal)
+Knowledge of MS Office Products - Word, Excel, and PowerPoint
+
+
+
+
+
+
+
+
+Method of Application 
+
+Interested and qualified? Go to JMR Infotech on www.linkedin.com to apply
+
+
+Build your CV for free. Download in different templates.","Job Type Full Time
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp"
+About Canonical,,,,
+Juju Software Engineer (Go),"View Jobs in ICT / Telecommunication
+/
+View Jobs at Canonical","Posted: Jun 7, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+We deliver open source to the world faster, more securely and more cost effectively than any other company. If you're interested in a career at Canonical, we are a remote-first company so please apply to any suitable role as skills are valued more than location, despite some having a preferred geographic preference.
+
+Read more about this company
+ 
+
+Juju Software Engineer (Go)
+
+
+Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp
+
+
+
+
+As a software engineer on the team, you'll be contributing to the development of Juju, a large open-source Go project that powers complex distributed software systems across the world.
+Juju is the engine behind model-driven operations, providing a means to operate complex software on public cloud, private cloud, Kubernetes, and bare-metal. Combined with the Ops framework, Juju provides a complete solution for applications and infrastructure management.
+Many internal and external teams depend on Juju to deliver their products and services - from Canonical Managed Solutions, our OpenStack and cloud delivery teams, to Fortune 500 companies.
+
+Location: This is a Globally remote role.
+What your day will look like
+
+Contribute to the design, delivery, and support of features in a highly concurrent, highly distributed system that drives cloud automation and software operations at scale.
+Collaborate proactively with a distributed team
+Debug issues and interact with upstream communities publicly
+Work with helpful and talented engineers including experts in many fields
+Discuss ideas and collaborate on finding good solutions
+Work from home with global travel for 2 to 4 weeks per year for internal and external events
+
+What we are looking for in you
+
+Experience developing software using Go.
+Excellent communication skills in the English language, both verbal and written, especially in online environments
+An exceptional academic track record from both high school and preferably university
+Willingness to travel up to 4 times a year for internal events
+
+Additional skills that you might also bring
+The following skills may be helpful to you in the role, but we don't expect everyone to bring all of them.
+
+Hands-on experience developing highly concurrent distributed systems
+Experience with container technologies (Docker, LXD, Kubernetes, etc.)
+Solid networking background and experience
+Experience with agile software development methodologies
+Experience in the Linux and open-source software world
+Experience with configuration management software (Ansible, Chef, Puppet, et al.)
+Working knowledge of cloud computing
+Experience with software packaging (Debian, snaps)
+Programming with, and operating, SQL and NoSQL databases
+Experience working on a distributed team on an open source project -- even if that is community open source contributions.
+Demonstrated track record of Open Source contributions
+Prior experience developing plugins for Terraform
+
+
+
+
+
+
+
+
+Method of Application 
+
+Interested and qualified? Go to Canonical on boards.greenhouse.io to apply
+
+
+Build your CV for free. Download in different templates.","Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field ICT / Computer&nbsp"
+About Canonical,,,,
+"Python and Kubernetes Software Engineer - Data, AI/ML & Analytics","View Jobs in ICT / Telecommunication
+/
+View Jobs at Canonical","Posted: Jun 7, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+We deliver open source to the world faster, more securely and more cost effectively than any other company. If you're interested in a career at Canonical, we are a remote-first company so please apply to any suitable role as skills are valued more than location, despite some having a preferred geographic preference.
+
+Read more about this company
+ 
+
+Python and Kubernetes Software Engineer - Data, AI/ML & Analytics
+
+
+Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field Data, Business Analysis and AI&nbsp , ICT / Computer&nbsp
+
+
+
+
+The company is founder led, profitable and growing. We are hiring Python and Kubernetes Specialist Engineers focused on Data, AI/ML and Analytics Solutions to join our teams building open source solutions for public cloud and private infrastructure.
+As a software engineer on the team, you'll collaborate on an end-to-end data analytics and mlops solution composed of popular, open-source, machine learning tools, such as Kubeflow, MLFlow, DVC, and Feast. You may also work on workflow, ETL, data governance and visualization tools like Apache SuperSet, dbt, and Temporal, or data warehouse solutions such as Apache Trino, or ClickHouse. Your team will own a solution from the analytics and machine learning space, and integrate with the solutions from other teams to build the world's best end-to-end data platform. These solutions may be run on servers or on the cloud, on machines or on Kubernetes, on developer desktops, or as web services.
+We serve the needs of individuals and community members as much as the needs of our Global 2000 and Fortune 500 customers; we make our primary work available free of charge and our Pro subscriptions are also available to individuals for personal use at no cost. Our goal is to enable more people to enjoy the benefits of open source, regardless of their circumstances.
+Location: This initiative spans many teams that are home-based in EMEA, Americas and APAC time zones, so we can accommodate candidates in almost any location. We believe in distributed collaboration but we also try to ensure that colleagues have company during their work hourse! Successful candidates will join a team where most members and your manager are broadly in the same time zone so that you have the benefits of constant collaboration and discussion.
+
+What your day will look like
+
+Develop your understanding of the entire Linux stack, from kernel, networking, and storage, to the application layer
+Design, build and maintain solutions that will be deployed on public and private clouds and local workstations
+Master distributed systems concepts such as observability, identity, tracing
+Work with both Kubernetes and machine-oriented open source applications
+Collaborate proactively with a distributed team of engineers, designers and product managers
+Debug issues and interact in public with upstream and Ubuntu communities
+Generate and discuss ideas, and collaborate on finding good solutions
+
+What we are looking for in you
+
+Professional or academic software delivery using Python or Golang
+Exceptional academic track record from both high school and university
+Undergraduate degree in a technical subject or a compelling narrative about your alternative chosen path
+Confidence to respectfully speak up, exchange feedback, and share ideas without hesitation
+Track record of going above-and-beyond expectations to achieve outstanding results
+Passion for technology evidenced by personal projects and initiatives
+The work ethic and confidence to shine alongside motivated colleagues
+Professional written and spoken English with excellent presentation skills
+Experience with Linux (Debian or Ubuntu preferred)
+Excellent interpersonal skills, curiosity, flexibility, and accountability
+Appreciative of diversity, polite and effective in a multi-cultural, multi-national organisation
+Thoughtfulness and self-motivation
+Result-oriented, with a personal drive to meet commitments
+Ability to travel twice a year, for company events up to two weeks long
+
+Additional Skills That Would Be Nice To Have
+The following skills may be helpful to you in the role, but we don't expect everyone to bring all of them.
+
+Hands-on experience with machine learning libraries, or tools.
+Proven track record of building highly automated machine learning solutions for the cloud.
+Experience with container technologies (Docker, LXD, Kubernetes, etc.)
+Experience with public clouds (AWS, Azure, Google Cloud)
+Working knowledge of cloud computing
+Passionate about software quality and testing
+Experience working on an open source project
+
+
+
+
+
+
+
+
+Method of Application 
+
+Interested and qualified? Go to Canonical on boards.greenhouse.io to apply
+
+
+Build your CV for free. Download in different templates.","Job Type Full Time , Remote
+Qualification BA/BSc/HND
+Experience 
+Location Nairobi
+Job Field Data, Business Analysis and AI&nbsp , ICT / Computer&nbsp"
+About AJUA (Formerly mSurvey),,,,
+Software Engineer (Frontend),"View Jobs in ICT / Telecommunication
+/
+View Jobs at AJUA (Formerly mSurvey)","Posted: Jun 7, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+AJUA (Formerly mSurvey) is Africa's first Integrated Customer Experience platform for businesses on the continent. We exist to bridge the gap between businesses and their customers. Ajua’s technology integrates with businesses at the points that matter most to their customers to measure and optimize their Customer Experience.
+
+Read more about this company
+ 
+
+Software Engineer (Frontend)
+
+
+Job Type Full Time
+Qualification BA/BSc/HND
+Experience 3 years
+Location Nairobi
+Job Field ICT / Computer&nbsp
+
+
+
+Requirements
+
+Team player for a committed dev team.
+3+ years of progressive software development experience (we product development preferred).
+Experience with Java (or JVM languages), Python/PHP frameworks, and full-stack web development frameworks.
+Strong understanding of front-end frameworks (React preferred).
+Familiarity with emerging software paradigms and technologies.
+Experience with APls and implementation.
+Proficient in Unix/Linux, web services, and APIs.
+Experience with Agile methodologies.
+Secure software development practices understanding.
+Optimizes code for functionality and efficiency.
+Strong system design/documentation skills with an eye for detail (data & business requirements).
+
+
+
+
+
+
+
+
+Method of Application 
+
+Submit your CV to careeerseajua.com
+ 
+
+
+Build your CV for free. Download in different templates.","Job Type Full Time
+Qualification BA/BSc/HND
+Experience 3 years
+Location Nairobi
+Job Field ICT / Computer&nbsp"
+About Cigna,,,,
+React Native Software Engineer,"View Jobs in Insurance
+/
+View Jobs at Cigna","Posted: Jun 6, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+Cigna is a global health service company, dedicated to helping the people we serve improve their health, well-being and sense of security. Cigna has almost 40,000 employees who service over 80 million customer relationships around the world. Within its international division, a dedicated unit - headquartered in Belgium - focuses on the needs of International...
+
+Read more about this company
+ 
+
+React Native Software Engineer
+
+
+Job Type Full Time
+Qualification BA/BSc/HND
+Experience 4 years
+Location Nairobi
+Job Field ICT / Computer&nbsp
+
+
+
+Overview
+Cigna International Health is initiating a project to develop a cutting-edge global mobile solution to bolster the expansion of our health businesses across the globe. We’re actively seeking accomplished leaders to champion our vision and steer us towards building a mobile platform for serving Cigna’s customers all over the world.
+We are seeking an experienced Software Engineering to drive our front-end software development efforts in creating high-quality mobile solutions. The ideal candidate will engineer technical solutions, produce clean code, and ensure successful delivery of software solutions aligned with business goals.
+Responsibilities
+Technical Leadership:
+
+Be responsible for the output of multiple disciplines within Application Development.
+Implement software engineering strategy, ensuring that it aligns with the overall business and product objectives.
+Contribute to the definition of applications development policies, standards, and procedures.
+
+Project Delivery:
+
+Execute software projects, ensuring they are delivered on time, within budget, and meet quality standards.
+Develop solutions using TDD methodology.
+Execute project plans and application designs to ensure projects are aligned with standards and IT strategy.
+Architecture and Development: Guide the design principles, and development processes to ensure scalable, secure, and efficient solutions, collaborating with other senior leads.
+Operational Efficiency: Implement DevSecOps to streamline processes, tools, and workflows to optimize engineering operations and enhance productivity.
+
+Requirements
+
+Experience: Proven experience (4 years) in a role within software development for commercial software products, with a strong technical background.
+Technical Acumen: Knowledge of software development methodologies, source code management strategies, design patterns, DevSecOps, automation, and best practices. Ability to translate non-functional requirements such as availability, flexibility, stability, ease of maintenance and security.
+Technologies covered: Experience of implementing software using ReactNative framework, TypeScript, web based and desktop clients, application servers, relational and non-relational databases, testing strategies.
+Education: Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
+Global and regulatory landscapes: Experience of working practices across multiple geographies and with regional nuances such as tax rules, regulatory interfaces, multi-currency, multi-language etc is an advantage.
+Aware of the concrete effects of architectural decisions – specifically microservice architecture – at the code level, in collaboration with other team members. 
+
+Desirable
+
+
+Experience of using Jira
+
+
+
+
+
+
+
+
+
+Method of Application 
+
+Interested and qualified? Go to Cigna on cigna.wd5.myworkdayjobs.com to apply
+
+
+Build your CV for free. Download in different templates.","Job Type Full Time
+Qualification BA/BSc/HND
+Experience 4 years
+Location Nairobi
+Job Field ICT / Computer&nbsp"
+About Cigna,,,,
+React Native Senior Software Engineer,"View Jobs in Insurance
+/
+View Jobs at Cigna","Posted: Jun 6, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+Cigna is a global health service company, dedicated to helping the people we serve improve their health, well-being and sense of security. Cigna has almost 40,000 employees who service over 80 million customer relationships around the world. Within its international division, a dedicated unit - headquartered in Belgium - focuses on the needs of International...
+
+Read more about this company
+ 
+
+React Native Senior Software Engineer
+
+
+Job Type Full Time
+Qualification BA/BSc/HND
+Experience 7 years
+Location Nairobi
+Job Field ICT / Computer&nbsp
+
+
+
+Responsibilities
+Technical Leadership:
+
+Provide direction and be responsible for the output of frontend discipline within Application Development.
+Implement software engineering strategy, ensuring that it aligns with the overall business and product objectives.
+Own the frontend application development capability for our global mobile solution aligned with the product vision as defined by the global mobile solution product owner.
+Contribute to the definition of applications development policies, standards, and procedures.
+
+Team Leadership:
+
+Lead, mentor, and manage junior software development team members, fostering a culture of innovation, automation, collaboration, and excellence.
+Responsible for career development and performance management of junior software development team members.
+
+Project Delivery:
+
+Execute software projects, ensuring they are delivered on time, within budget, and meet quality standards.
+Develop solutions using TDD methodology.
+Execute project plans and application designs to ensure projects are aligned with standards and IT strategy.
+Allocate appropriate resources to ensure that projects are completed within committed time and budget and are integrated with other software applications.
+Architecture and Development: Guide the design principles, and development processes to ensure scalable, secure, and efficient solutions, collaborating with other senior leads.
+Operational Efficiency: Implement DevSecOps to streamline processes, tools, and workflows to optimize engineering operations and enhance productivity.
+
+Requirements
+
+Experience: Proven experience (7 years) in a senior role within software development for commercial software products, with a strong technical background.
+Technical Acumen: Extensive knowledge of software development methodologies, source code management strategies, design patterns, DevSecOps, automation, and best practices. Ability to translate non-functional requirements such as availability, flexibility, stability, ease of maintenance and security.
+Technologies covered: Experience of implementing software using ReactNative framework, TypeScript, web based and desktop clients, application servers, relational and non-relational databases, testing strategies.
+Leadership Skills: Good leadership, mentoring, and communication skills to guide and inspire junior technical team members.
+Education: Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
+Global and regulatory landscapes: Understanding and experience of working practices across multiple geographies. Experience with regional nuances such as tax rules, regulatory interfaces, multi-currency, multi-language etc is an advantage.
+Aware of the concrete effects of architectural decisions – specifically microservice architecture – at the code level, in collaboration with other team members.
+
+Desirable
+
+
+Experience of using Jira
+
+
+
+
+
+
+
+
+
+Method of Application 
+
+Interested and qualified? Go to Cigna on cigna.wd5.myworkdayjobs.com to apply
+
+
+Build your CV for free. Download in different templates.","Job Type Full Time
+Qualification BA/BSc/HND
+Experience 7 years
+Location Nairobi
+Job Field ICT / Computer&nbsp"
+About Jumia,,,,
+Frontend Software Engineer,"View Jobs in Internet / E-commerce
+/
+View Jobs at Jumia","Posted: Jun 4, 2024","Never pay for any CBT, test or assessment as part of any recruitment process. When in doubt, contact us
+JUMIA is an e-commerce startup with an aim to mimic Amazon’s success by delivering a wide range of items, from toys to generators across the African continent. Shortly after the startup of the business in Nigeria, JUMIA launched warehouses in four other growing countries which include: Egypt, Morocco, Kenya and Cote d'Ivoire.
+
+Read more about this company
+ 
+
+Frontend Software Engineer
+
+
+Job Type Full Time
+Qualification BA/BSc/HND
+Experience 1 year
+Location Nairobi
+Job Field ICT / Computer&nbsp
+
+
+
+What you will be doing
+Be part of an agile team that develops smart logistics solutions on a service-oriented architecture using state-of-the-art technologies
+In particular, you will:
+
+Work closely with a multidisciplinary team (Backend developers, DevOps, QA engineers, Product Owners) oriented to continuous delivery
+Work across the entire product life cycle: concept, design, development, deployment, testing, release, support
+Construct and verify (unit test) software components to meet design specifications
+Take ownership for your code to be qualitatively high and you will support your colleagues in code reviews
+Integration of user-facing elements developed by front-end developers
+Rapidly fix bugs and solve problems
+
+What we are looking for
+
+Understanding fundamental design principles behind a scalable application
+Write and test interactive, clean, secure and efficient solutions
+Help maintain a high-level quality code by reviewing your teammates' code
+Continuously improve our code base, systems and processes
+Keen to learn new technologies and have ideas about how we can make things better
+Being passionate, self-driven and working with little supervision towards a common team or company purpose
+Excellent communication skills and being able to work independently or in a full team
+A professional with 1+ years of frontend web experience
+Proficient with at least one widely adopted single page application (SPA) architecture
+Vanilla Javascript and modern frameworks and platforms such as AngularJS, Ember, ReactJS, VueJS and/or Node.js
+Know module bundlers and task runners such as Webpack, Parcel, Rollup, Browserify, Grunt or Gulp
+Semantic documents using HTML
+Developing great user interfaces
+Creating a testable code and make testing a priority
+Agile methodologies such as Scrum and Kanban
+Passionate for coaching other engineers and building a strong team culture
+
+
+
+
+
+
+
+
+Method of Application 
+
+Interested and qualified? Go to Jumia on boards.eu.greenhouse.io to apply
+
+
+Build your CV for free. Download in different templates.","Job Type Full Time
+Qualification BA/BSc/HND
+Experience 1 year
+Location Nairobi
+Job Field ICT / Computer&nbsp"
